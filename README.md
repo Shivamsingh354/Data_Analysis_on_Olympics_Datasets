@@ -12,6 +12,9 @@ What is the distribution of medals across different sports and events?
 
 Are there observable trends in athlete demographics like age, height, and weight?
 
+📁 Dataset
+The dataset includes records from Olympic events, covering athletes, medals, years, countries, and events. It was sourced from Kaggle - Olympic History.
+
 📂 Dataset Details
 The dataset used originates from Kaggle's "120 years of Olympic history: athletes and results". It encompasses:
 
